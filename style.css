@@ -39,6 +39,7 @@ html, body{
     .card__container{
         grid-template-columns: 1fr;
         gap: 15px;
+        margin-top: 2%;
     }
   }
   
@@ -47,6 +48,7 @@ html, body{
     .card__container{
         grid-template-columns: 1fr;
         gap: 15px;
+        margin-top: 2%;
     }
   }
   
@@ -55,6 +57,7 @@ html, body{
     .card__container{
         grid-template-columns: 1fr;
         gap: 15px;
+        margin-top: 2%;
     }
   }
   
